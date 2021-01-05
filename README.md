@@ -22,7 +22,7 @@ Appropriate RF sender
 Somfy RTS remotes operate on 433.42 Mhz. The transmitter commonly sold have a 433.92 MHz crystal. You can buy 433.42 Mhz crystal and change it with a bit of soldering.
 ### Software
 
-For the example to work, the [Adafruit MQTT library]https://github.com/adafruit/Adafruit_MQTT_Library) need to be included. But any other can be used.
+For the example to work, the [Adafruit MQTT library](https://github.com/adafruit/Adafruit_MQTT_Library) need to be included. But any other can be used.
 
 ## MQTT messages
 
